@@ -1,0 +1,17 @@
+um eine Verknüpfung zur JDK-Datei zu erstellen, soll man folgende Schritte erledigen:
+1) Browser anklicken
+2) den Ordner BlueJ-Schule öffnen;
+	den Unterordner JDK1.8 öffnen;
+	den Unterordner jre öffnen;
+	den Unterordner bin öffnen;
+	datei javaw finden;
+ 	
+	rechts unten auf den Button Öffnen anklicken;
+3) alles schließen
+4) den Ordner blueJ-Schule öffnen;
+	Im Ordner BlueJ die Datei BlueJ mit dem "Vogel" 
+	mit einem Doppelklick öffnen;
+5) versuch jetzt eine BlueJ-Datei zu öffnen;
+
+
+viel Erfolg!
